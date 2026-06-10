@@ -1,5 +1,5 @@
 let drink1 = "Cappuccino";
-let drink2 = "Matcha Latte";
+let drink2 = "Matcha Latte Less Ice";
 let drink3 = "Thai Tea";
 let drink4 = "Pistachio Latte";
 let drink5 = "Chocolate Milkshake";
