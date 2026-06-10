@@ -1,7 +1,7 @@
 let drink1 = "Cappuccino";
 let drink2 = "Matcha Latte";
 let drink3 = "Thai Tea";
-let drink4 = "Pistachio Latte";
+let drink4 = "Pistachio Latte Less Ice";
 let drink5 = "Chocolate Milkshake";
 
 console.log("Daftar Minuman Favorit:");
